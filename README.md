@@ -1,2 +1,2 @@
 # Harrigan Group
-## Site structure to follow
+## Site structure to follow     

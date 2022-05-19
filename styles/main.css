@@ -1,0 +1,37 @@
+* {
+    margin:0%;
+    padding:0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{    
+    background-color: antiquewhite;
+}
+
+.heading  {
+    display: inline-block;
+    align-items: center;
+    width:95%;
+    position:relative;
+    right:-5%;
+    height: 2.5em;
+    font-size: 3em;
+    background-color:rgba(47, 79, 79, 0.7);
+    color:lemonchiffon;
+    border-radius:5px;
+    
+}
+
+ul.menu{
+    list-style-type:armenian;
+    font-size: 1.5em;
+}
+a{
+    text-decoration:none;
+    color:darkslategrey;
+}
+.date{
+    display:block;
+    position:absolute;
+    bottom: 0%;
+    font-size: 17px;
+}
